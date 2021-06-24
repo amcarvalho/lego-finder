@@ -1,0 +1,1 @@
+CREATE TABLE minifigs(fig_num varchar(20), name varchar(256), num_parts int)

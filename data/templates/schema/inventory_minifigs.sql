@@ -1,0 +1,1 @@
+CREATE TABLE inventory_minifigs(inventory_id int, fig_num varchar(20), quantity int)

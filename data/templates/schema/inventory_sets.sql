@@ -1,0 +1,1 @@
+CREATE TABLE inventory_sets(inventory_id int, set_num varchar(20), quantity int);

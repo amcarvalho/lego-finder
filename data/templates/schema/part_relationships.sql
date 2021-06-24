@@ -1,0 +1,1 @@
+CREATE TABLE part_relationships(rel_type varchar(1), child_part_num varchar(20), parent_part_num varchar(20))

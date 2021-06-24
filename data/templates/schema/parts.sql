@@ -1,0 +1,1 @@
+CREATE TABLE parts(part_num varchar(20), name varchar(20), part_cat_id int, part_material varchar(32))

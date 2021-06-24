@@ -1,0 +1,1 @@
+CREATE TABLE colors(id int, name varchar(20), rgb varchar(6), is_trans boolean)

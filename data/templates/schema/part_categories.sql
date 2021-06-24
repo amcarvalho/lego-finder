@@ -1,0 +1,1 @@
+CREATE TABLE part_categories(id int, name varchar(20))

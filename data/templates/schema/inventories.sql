@@ -1,0 +1,1 @@
+CREATE TABLE inventories(id int, version int, set_num varchar(20))
