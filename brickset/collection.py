@@ -22,6 +22,9 @@ class Collection(object):
 
         file = Path(DATABASE_FILE)
         if refresh_data or not file.exists():
+            print("\n!!! Building inventory database. "
+                  "This happens on your first execution or if you explicitly ask to rebuild the "
+                  "inventory database !!!\n")
             self.con = sqlite3.connect(DATABASE_FILE)
             self.create_all_tables()
             self.load_all_tables()
