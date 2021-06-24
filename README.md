@@ -1,11 +1,11 @@
-#Summary
+# Summary
 This utility determines other Lego sets you can build based on the Lego sets you own. In order to do so, you need to:
 - Create an account at Brickset.com (it's a really nice website anyway if you like Lego)
 - Add Lego sets to your collection in Brickset.com
 - Get a Brickset.com API key. You can get one at https://brickset.com/tools/webservices/requestkey. They will send you
 a key to your email address in a matter of seconds/minutes
 
-#Installation
+# Installation
 
 Clone this repo:
 ```
