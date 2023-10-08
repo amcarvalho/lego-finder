@@ -1,1 +1,1 @@
-CREATE TABLE sets(set_num varchar(20), name varchar(256), year int, theme_id int, num_parts int)
+CREATE TABLE sets(set_num varchar(20), name varchar(256), year int, theme_id int, num_parts int, img_url varchar(256))

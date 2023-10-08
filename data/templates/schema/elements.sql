@@ -1,1 +1,1 @@
-CREATE TABLE elements(element_id varchar(10), part_num varchar(20), color_id int)
+CREATE TABLE elements(element_id varchar(10), part_num varchar(20), color_id int, design_id int)
